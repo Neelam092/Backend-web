@@ -1,0 +1,17 @@
+{
+  "name": "10.express-js-server-creaion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.37",
+    "express": "^4.17.1"
+  }
+}
